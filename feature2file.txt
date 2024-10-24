@@ -1,1 +1,2 @@
 Content in feature-2
+Updated content in feature-2
